@@ -14,4 +14,4 @@ Uploaded files with .py extensions contain functions to be used for implementing
 
 The .pdf document contains text of my final thesis.
 
-**Notebooks** folder contains some of jupyter notebooks where said functions are used for simulations.
+**Notebooks** with extension .ipynb contain some of jupyter notebooks where said functions are used for simulations.
