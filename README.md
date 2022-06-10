@@ -12,6 +12,6 @@ Uploaded files with .py extensions contain functions to be used for implementing
 **scale.py** - functions to implement diversity index calculations (random spatial grouping model is one instance of diversity index, namely _I = 0_).
 **scaling-new.py** - new set of functions to implement diversity index calculations (_i_ at this case). Idea of this stems from grouping clusters in Ising model by Wolff interpretation.
 
-The .pdf document is text of my final thesis.
+The .pdf document contains text of my final thesis.
 
 **Notebooks** folder contains some of jupyter notebooks where said functions are used for simulations.
