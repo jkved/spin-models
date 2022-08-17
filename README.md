@@ -15,3 +15,6 @@ Uploaded files with .py extensions contain functions to be used for implementing
 The .pdf document contains text of my final thesis.
 
 **Notebooks** with extension .ipynb contain some of jupyter notebooks where said functions are used for simulations.
+
+
+Part of the code was written by my thesis supervisor Aleksejus Kononovicius. Please see http://web.vu.lt/tfai/a.kononovicius/ for more of his work and research in sociophysics.
